@@ -1,5 +1,9 @@
 project:
   title: "Lab_10"
+  output-dir: docs
+  type: website
 
 editor: visual
-
+format: 
+  html:
+    self-contained: true
